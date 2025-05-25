@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/20"
+            xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="co.edu.poli.examen3.controlador.FormularioController"
+            prefWidth="600" prefHeight="340">
+
+  <TextArea fx:id="txtAreaResultado" editable="false"
+            layoutX="10" layoutY="10" prefWidth="580" prefHeight="100"/>
+
+  <Label text="Código:" layoutX="10" layoutY="120"/>
+  <TextField fx:id="txtCodigo" layoutX="120" layoutY="115"/>
+
+  <Label text="Título:" layoutX="10" layoutY="150"/>
+  <TextField fx:id="txtTitulo" layoutX="120" layoutY="145"/>
+
+  <Label text="Fecha:" layoutX="10" layoutY="180"/>
+  <TextField fx:id="txtFecha" layoutX="120" layoutY="175"/>
+
+  <Label text="Páginas:" layoutX="10" layoutY="210"/>
+  <TextField fx:id="txtPaginas" layoutX="120" layoutY="205"/>
+
+  <Label text="Autor:" layoutX="10" layoutY="240"/>
+  <TextField fx:id="txtNombreAutor" layoutX="120" layoutY="235"/>
+
+  <Label text="Nacionalidad:" layoutX="10" layoutY="270"/>
+  <TextField fx:id="txtNacionalidadAutor" layoutX="120" layoutY="265"/>
+
+  <Button text="Crear"        layoutX="350" layoutY="115" onAction="#crearMateria"/>
+  <Button text="Leer"         layoutX="350" layoutY="155" onAction="#leerMateria"/>
+  <Button text="Leer Todos"   layoutX="350" layoutY="195" onAction="#leerTodosMaterias"/>
+  <Button text="Actualizar"   layoutX="350" layoutY="235" onAction="#actualizarMateria"/>
+  <Button text="Eliminar"     layoutX="350" layoutY="275" onAction="#eliminarMateria"/>
+  <Button text="Serializar"   layoutX="450" layoutY="235" onAction="#serializarMaterias"/>
+  <Button text="Deserializar" layoutX="450" layoutY="275" onAction="#deserializarMaterias"/>
+
+</AnchorPane>

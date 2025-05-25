@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"co.edu.poli.examen3.controlador"},{"l":"co.edu.poli.examen3.modelo"},{"l":"co.edu.poli.examen3.servicios"},{"l":"co.edu.poli.examen3.vista"}];updateSearchResults();

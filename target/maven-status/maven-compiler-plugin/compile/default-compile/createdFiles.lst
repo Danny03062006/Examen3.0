@@ -1,0 +1,9 @@
+co\edu\poli\examen3\controlador\FormularioController.class
+co\edu\poli\examen3\servicios\ImplementacionOperacion.class
+co\edu\poli\examen3\modelo\Autor.class
+co\edu\poli\examen3\modelo\Revista.class
+co\edu\poli\examen3\servicios\Operacion.class
+co\edu\poli\examen3\vista\Principal.class
+co\edu\poli\examen3\vista\App.class
+co\edu\poli\examen3\modelo\Libro.class
+co\edu\poli\examen3\modelo\Materia.class

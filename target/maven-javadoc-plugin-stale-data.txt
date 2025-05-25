@@ -1,0 +1,58 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/Danny/.m2/repository/org/openjfx/javafx-controls/20/javafx-controls-20.jar;C:/Users/Danny/.m2/repository/org/openjfx/javafx-controls/20/javafx-controls-20-win.jar;C:/Users/Danny/.m2/repository/org/openjfx/javafx-graphics/20/javafx-graphics-20.jar;C:/Users/Danny/.m2/repository/org/openjfx/javafx-graphics/20/javafx-graphics-20-win.jar;C:/Users/Danny/.m2/repository/org/openjfx/javafx-base/20/javafx-base-20.jar;C:/Users/Danny/.m2/repository/org/openjfx/javafx-base/20/javafx-base-20-win.jar;C:/Users/Danny/.m2/repository/org/openjfx/javafx-fxml/20/javafx-fxml-20.jar;C:/Users/Danny/.m2/repository/org/openjfx/javafx-fxml/20/javafx-fxml-20-win.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/Danny/OneDrive - Politécnico Grancolombiano/Documentos/examen3/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Danny/OneDrive - Politécnico Grancolombiano/Documentos/examen3/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Examen3.0 1.0 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/Danny/OneDrive - Politécnico Grancolombiano/Documentos/examen3/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Examen3.0 1.0 API'
+co.edu.poli.examen3.controlador
+co.edu.poli.examen3.modelo
+co.edu.poli.examen3.servicios
+co.edu.poli.examen3.vista
+C:\Users\Danny\.m2\repository\org\openjfx\javafx-controls\20\javafx-controls-20.jar = 1748206127888
+C:\Users\Danny\.m2\repository\org\openjfx\javafx-controls\20\javafx-controls-20-win.jar = 1748206128296
+C:\Users\Danny\.m2\repository\org\openjfx\javafx-graphics\20\javafx-graphics-20.jar = 1748206127942
+C:\Users\Danny\.m2\repository\org\openjfx\javafx-graphics\20\javafx-graphics-20-win.jar = 1748206128392
+C:\Users\Danny\.m2\repository\org\openjfx\javafx-base\20\javafx-base-20.jar = 1748206128307
+C:\Users\Danny\.m2\repository\org\openjfx\javafx-base\20\javafx-base-20-win.jar = 1748206128277
+C:\Users\Danny\.m2\repository\org\openjfx\javafx-fxml\20\javafx-fxml-20.jar = 1748206128159
+C:\Users\Danny\.m2\repository\org\openjfx\javafx-fxml\20\javafx-fxml-20-win.jar = 1748206128243
+C:\Users\Danny\OneDrive - Politécnico Grancolombiano\Documentos\examen3\src\main\java = 1748201437608
+C:\Users\Danny\OneDrive - Politécnico Grancolombiano\Documentos\examen3\target\reports\apidocs\allclasses-index.html = 1748210808549
+C:\Users\Danny\OneDrive - Politécnico Grancolombiano\Documentos\examen3\target\reports\apidocs\allpackages-index.html = 1748210808557
+C:\Users\Danny\OneDrive - Politécnico Grancolombiano\Documentos\examen3\target\reports\apidocs\element-list = 1748210807632
+C:\Users\Danny\OneDrive - Politécnico Grancolombiano\Documentos\examen3\target\reports\apidocs\help-doc.html = 1748210808857
+C:\Users\Danny\OneDrive - Politécnico Grancolombiano\Documentos\examen3\target\reports\apidocs\index-all.html = 1748210808826
+C:\Users\Danny\OneDrive - Politécnico Grancolombiano\Documentos\examen3\target\reports\apidocs\index.html = 1748210808494
+C:\Users\Danny\OneDrive - Politécnico Grancolombiano\Documentos\examen3\target\reports\apidocs\member-search-index.js = 1748210808627
+C:\Users\Danny\OneDrive - Politécnico Grancolombiano\Documentos\examen3\target\reports\apidocs\module-search-index.js = 1748210808567
+C:\Users\Danny\OneDrive - Politécnico Grancolombiano\Documentos\examen3\target\reports\apidocs\overview-summary.html = 1748210808845
+C:\Users\Danny\OneDrive - Politécnico Grancolombiano\Documentos\examen3\target\reports\apidocs\overview-tree.html = 1748210808452
+C:\Users\Danny\OneDrive - Politécnico Grancolombiano\Documentos\examen3\target\reports\apidocs\package-search-index.js = 1748210808608
+C:\Users\Danny\OneDrive - Politécnico Grancolombiano\Documentos\examen3\target\reports\apidocs\search.html = 1748210808839
+C:\Users\Danny\OneDrive - Politécnico Grancolombiano\Documentos\examen3\target\reports\apidocs\serialized-form.html = 1748210807946
+C:\Users\Danny\OneDrive - Politécnico Grancolombiano\Documentos\examen3\target\reports\apidocs\tag-search-index.js = 1748210808632
+C:\Users\Danny\OneDrive - Politécnico Grancolombiano\Documentos\examen3\target\reports\apidocs\type-search-index.js = 1748210808623
